@@ -1,0 +1,90 @@
+.text-logo-up{
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.text-logo-blue{
+    color: #4D5AE5;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+
+}
+
+a{
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.nav-menu{
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.nav-menu a:hover,
+.nav-menu a:focus{
+    color: #404BBF;
+}
+.contacts a:hover,
+.nav-menu a:focus{
+    color: #404BBF;
+}
+
+.box-title{
+    color: #FFFFFF;
+    background-color: #2E2F42;
+}
+.main-title{
+    text-align: center;
+}
+.section-title{
+    text-align: center;
+}
+
+.order-button{
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+.order-button:hover,
+.order-button:active{
+    background-color: #404BBF;
+}
+.team-box{
+    background-color: #F4F4FD;
+}
+.team-box li{
+    background-color: #FFFFFF;
+}
+.team-box h3,p{
+    text-align: center;
+}
+
+.end-of-site{
+    color: #FFFFFF;
+    background-color: #2E2F42;
+}
+.end-of-site a{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
