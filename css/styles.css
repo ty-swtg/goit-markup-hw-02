@@ -3,6 +3,9 @@
     font-weight: 700;
     font-size: 18px;
     text-transform: uppercase;
+    font-family:'Raleway', sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.03em;
 }
 
 .text-logo-blue{
@@ -12,8 +15,9 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #fff;
 
 }
 
@@ -31,7 +35,16 @@ ul{
     color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
+    font-style: medium;
     line-height: 24px;
+    letter-spacing: 0.02em;
+}
+.contacts{
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
 }
 
 .nav-menu a:hover,
@@ -39,7 +52,7 @@ ul{
     color: #404BBF;
 }
 .contacts a:hover,
-.nav-menu a:focus{
+.contacts a:focus{
     color: #404BBF;
 }
 
@@ -49,27 +62,47 @@ ul{
 }
 .main-title{
     text-align: center;
+    font-weight: 700;
+    font-size: 56px;
+    font-style: bold;
+    line-height: 60px;
+    letter-spacing: 0.02em;
 }
 .section-title{
+    color: #2E2F42;
     text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    font-style: bold;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+}
+.describing-title{
+    color: #2E2F42;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
 }
 
 .order-button{
     color: #FFFFFF;
     background-color: #4D5AE5;
-    font-weight: medium;
+    font-weight: 500;
+    font-style: medium;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 4%;
+    letter-spacing: 0.04em;
 }
 .order-button:hover,
-.order-button:active{
+.order-button:focus{
     background-color: #404BBF;
 }
 .team-box{
     background-color: #F4F4FD;
 }
-.team-box li{
+.team-card{
     background-color: #FFFFFF;
 }
 .team-box h3, 
@@ -77,15 +110,21 @@ ul{
     text-align: center;
 }
 
+
 .end-of-site{
     color: #FFFFFF;
     background-color: #2E2F42;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
 }
 .end-of-site a{
     color: #FFFFFF;
     text-transform: uppercase;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.03em;
 }
+
