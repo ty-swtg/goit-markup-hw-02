@@ -72,7 +72,8 @@ ul{
 .team-box li{
     background-color: #FFFFFF;
 }
-.team-box h3,p{
+.team-box h3, 
+.team-box p{
     text-align: center;
 }
 
