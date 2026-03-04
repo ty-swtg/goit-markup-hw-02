@@ -4,7 +4,7 @@
     font-size: 18px;
     text-transform: uppercase;
     font-family:'Raleway', sans-serif;
-    line-height: 21px;
+    line-height: 1.16;
     letter-spacing: 0.03em;
 }
 
@@ -36,14 +36,15 @@ ul{
     font-weight: 500;
     font-size: 16px;
     font-style: medium;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.contacts{
+.contacts {
+    font-style: normal;
     color: #434455;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
@@ -65,7 +66,7 @@ ul{
     font-weight: 700;
     font-size: 56px;
     font-style: bold;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
 }
 .section-title{
@@ -74,7 +75,7 @@ ul{
     font-weight: 700;
     font-size: 36px;
     font-style: bold;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
 }
 .describing-title{
@@ -82,7 +83,7 @@ ul{
     font-weight: 500;
     font-style: Medium;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
@@ -92,8 +93,9 @@ ul{
     font-weight: 500;
     font-style: medium;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
 }
 .order-button:hover,
 .order-button:focus{
@@ -112,19 +114,22 @@ ul{
 
 
 .end-of-site{
-    color: #FFFFFF;
     background-color: #2E2F42;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.footer-text{
+    color: #f4f4fd;
 }
 .end-of-site a{
     color: #FFFFFF;
     text-transform: uppercase;
+    font-family:'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.16;
     letter-spacing: 0.03em;
 }
 
