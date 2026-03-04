@@ -47,6 +47,12 @@ ul{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.nav-menu a{
+    color: #2E2F42;
+}
+.contacts a{
+    color: #434455;
+}
 
 .nav-menu a:hover,
 .nav-menu a:focus{
@@ -112,7 +118,7 @@ ul{
 }
 .team-card{
     background-color: #FFFFFF;
-    line-height: 1.2;
+    line-height: 1.5;
 }
 .team-box h3, 
 .team-box p{
